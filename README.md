@@ -1,6 +1,6 @@
 # Opulent.Red
 
-Let's build a Space Opera MMO Sandbox with Decentralized componenets
+Let's build a decentralized Space Opera MMO Sandbox
 
 # Cryptoeconomic mechanism notes
 
